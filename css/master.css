@@ -1,0 +1,62 @@
+body{
+background-color: whitesmoke;
+line-height:1.6 ;
+   
+}
+
+nav {
+   background-color: aqua;
+}
+
+#about{
+ text-align: center;
+    background-color: palevioletred;
+
+}
+#Hobbe{
+    background-color:rgb(207, 170, 234);
+
+
+}
+.hobbe img{
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    
+
+}
+#favareit{
+    background-color: burlywood;
+}
+form{
+     display:flex;
+     flex-direction: column;
+     background-color: chocolate;
+}
+form input,form button{
+
+    margin: 10px;
+    padding: 8px;
+    width: 400px;
+
+}
+form button{
+    background-color: aquamarine;
+    border-radius: 15px;
+    width: 60px;
+}
+form input{
+    background-color: rgb(153, 171, 171);
+}
+ form button:hover{
+    background-color: rgb(55, 27, 86);
+ }
+ #future{
+    background-color: rgb(104, 144, 60);
+    height: 120px;
+ }
+#Project{
+    background-color: rgb(95, 95, 4);
+    height: 100px;
+    
+}
